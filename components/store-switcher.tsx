@@ -68,7 +68,7 @@ export default function StoreSwitcher({
         <Command>
           <CommandList>
             <CommandInput placeholder="Search Store.." />
-            <CommandEmpty>Oopss Not Found..</CommandEmpty>
+            <CommandEmpty>Oopss Not Found...</CommandEmpty>
             <CommandGroup heading="Stores">
               {formattedItems.map((store) => (
                 <CommandItem
