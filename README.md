@@ -1,1 +1,1 @@
-An EE-Commerce Dashboard
+An E-Commerce Dashboard
